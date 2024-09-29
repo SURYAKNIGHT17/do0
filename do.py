@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import sklearn as sk
 
-genai.configure(api_key="AIzaSyCxGmyEE5jokRG6LKRKxwE0blo_N5XaORA")
+# genai.configure(api_key="AIzaSyCxGmyEE5jokRG6LKRKxwE0blo_N5XaORA")
 
 # Create the model
 generation_config = {
